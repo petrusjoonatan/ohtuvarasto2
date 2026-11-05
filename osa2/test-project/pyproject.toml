@@ -1,0 +1,19 @@
+[project]
+name = "ohtutesting-app"
+version = "0.0.1"
+description = "Sovellus joka toimii testisyötteenä ohtun viikon 2 laskareihin"
+authors = [{ name = "Matti Luukkainen" }, { name = "Kalle Ilves" }]
+license = "MIT"
+requires-python = ">=3.14"
+dependencies = [
+    "flask>=3.1.3",
+    "editdistance>=0.8.1",
+]
+
+[dependency-groups]
+dev = [
+    "coverage>=7.17.0",
+    "robotframework>=7.5",
+    "robotframework-seleniumlibrary>=6.9.0",
+    "requests>=2.34.2",
+]

@@ -1,0 +1,958 @@
+Nils Lundkvist;DAL;;2;17
+Jakob Chychrun;OTT;;14;27
+Joshua Roy;MTL;;4;5
+Mathew Dumba;ARI, TBL;;4;8
+John Marino;NJD;;4;21
+Nicklas Backstrom;WSH;;0;1
+Jake Guentzel;PIT, CAR;;30;47
+Adrian Kempe;LAK;;28;47
+Aku Raty;ARI;;0;1
+Adam Beckman;MIN;;0;2
+Barrett Hayton;ARI;;3;7
+Jason Robertson;DAL;;29;51
+Victor Hedman;TBL;;13;63
+Brandon Hagel;TBL;;26;49
+Rickard Rakell;PIT;;15;22
+Andre Burakovsky;SEA;;7;9
+Sammy Blais;STL;;1;6
+Steven Lorentz;FLA;;1;2
+Erik Cernak;TBL;;2;11
+Dante Fabbro;NSH;;3;10
+Martin Necas;CAR;;24;29
+Sam Bennett;FLA;;20;21
+Lawson Crouse;ARI;;23;19
+Landon Slaggert;CHI;;1;3
+Eetu Luostarinen;FLA;;12;15
+Jiri Kulich;BUF;;0;0
+Tanner Pearson;MTL;;5;8
+Filip Zadina;SJS;;13;10
+Anton Lundell;FLA;;13;22
+Pavol Regenda;ANA;;0;0
+Matt Grzelcyk;BOS;;2;9
+Marcus Johansson;MIN;;11;19
+Justin Danforth;CBJ;;10;16
+Brad Lambert;WPG;;0;1
+Brendan Brisson;VGK;;2;6
+Luke Hughes;NJD;;9;38
+Janis Moser;ARI;;5;21
+Troy Stecher;ARI, EDM;;1;6
+Simon Edvinsson;DET;;1;1
+Filip Forsberg;NSH;;48;46
+Craig Smith;DAL;;11;9
+Jaret Anderson-Dolan;LAK, NSH;;1;3
+Alex Tuch;BUF;;22;37
+Mike Reilly;FLA, NYI;;6;18
+Nick Foligno;CHI;;17;20
+Dylan Coghlan;CAR;;0;0
+Sam Reinhart;FLA;;57;37
+Cody Glass;NSH;;6;7
+Vincent Iorio;WSH;;0;0
+Mathieu Olivier;CBJ;;5;7
+Brayden Schenn;STL;;20;26
+Kailer Yamamoto;SEA;;8;8
+John Klingberg;TOR;;0;5
+Vincent Trocheck;NYR;;25;52
+Jujhar Khaira;MIN;;0;0
+Shane Pinto;OTT;;9;18
+Nathan Walker;STL;;7;6
+Callahan Burke;CAR;;0;0
+Sam Steel;DAL;;9;15
+Victor Olofsson;BUF;;7;8
+James van Riemsdyk;BOS;;11;27
+Liam Ohgren;MIN;;1;1
+Anders Lee;NYI;;20;17
+Vladislav Gavrikov;LAK;;6;17
+Ryan Strome;ANA;;11;30
+Tomas Hertl;SJS, VGK;;17;21
+Dylan Larkin;DET;;33;36
+John Hayden;SEA;;0;0
+Warren Foegele;EDM;;20;21
+Vasily Podkolzin;VAN;;0;2
+David Kampf;TOR;;8;11
+Zack MacEwen;OTT;;2;1
+Arthur Kaliyev;LAK;;7;8
+Tyler Seguin;DAL;;25;27
+Olen Zellweger;ANA;;2;7
+Brandon Biro;BUF;;2;0
+Dillon Dube;CGY;;3;4
+Mike Hoffman;SJS;;10;13
+Alexander Romanov;NYI;;7;15
+Jonas Siegenthaler;NJD;;1;8
+Alexis Lafrenière;NYR;;28;29
+Jack Thompson;TBL, SJS;;0;0
+Brett Pesce;CAR;;3;10
+Alex Steeves;TOR;;0;0
+Leon Draisaitl;EDM;;41;65
+Tomas Tatar;COL, SEA;;9;15
+Brock Nelson;NYI;;34;35
+Dmitry Orlov;CAR;;6;20
+Nikita Nesterenko;ANA;;1;0
+Alex Goligoski;MIN;;0;10
+Brandon Scanlin;NYR;;0;0
+Brett Kulak;EDM;;3;13
+Derek Ryan;EDM;;5;7
+Filip Hronek;VAN;;5;43
+Nicolas Hague;VGK;;2;10
+MacKenzie Entwistle;CHI;;5;6
+Matthew Tkachuk;FLA;;26;62
+Kirby Dach;MTL;;0;2
+Vladimir Tarasenko;OTT, FLA;;23;32
+Max Jones;ANA;;5;10
+Yegor Chinakhov;CBJ;;16;13
+Cal Clutterbuck;NYI;;7;12
+Quinn Hughes;VAN;;17;75
+Ty Dellandrea;DAL;;2;7
+Evgeny Kuznetsov;WSH, CAR;;8;16
+James Malatesta;CBJ;;2;2
+Jordan Greenway;BUF;;10;18
+Sean Walker;PHI, COL;;10;19
+Oliver Wahlstrom;NYI;;2;4
+Dylan DeMelo;WPG;;3;28
+Ruslan Iskhakov;NYI;;0;1
+Oliver Kylington;CGY;;3;5
+Louie Belpedio;PHI;;2;2
+Parker Kelly;OTT;;8;10
+Ridly Greig;OTT;;13;13
+Ross Johnston;ANA;;1;3
+Ivan Provorov;CBJ;;5;27
+Zach Whitecloud;VGK;;2;12
+Zach Dean;STL;;0;0
+Connor Dewar;MIN, TOR;;11;8
+Morgan Barron;WPG;;11;7
+Tye Kartye;SEA;;11;9
+Patrick Maroon;MIN, BOS;;4;12
+Noel Acciari;PIT;;4;3
+Christian Dvorak;MTL;;5;4
+Braden Schneider;NYR;;5;14
+Andrew Copp;DET;;13;20
+Sean Couturier;PHI;;11;27
+Alex Pietrangelo;VGK;;4;29
+Brendan Gallagher;MTL;;16;15
+Zach Aston-Reese;DET;;0;0
+Juuso Valimaki;ARI;;2;15
+Jake McCabe;TOR;;8;20
+Mitchell Chaffee;TBL;;4;3
+Mark Giordano;TOR;;3;6
+Brendan Smith;NJD;;5;10
+Nico Hischier;NJD;;27;40
+Teuvo Teravainen;CAR;;25;28
+Marián Studenic;SEA;;0;0
+William Lagesson;TOR, ANA;;0;4
+Will Cuylle;NYR;;13;8
+Matt Benning;SJS;;0;2
+Cole Smith;NSH;;9;14
+Nico Sturm;SJS;;5;8
+Anthony Duclair;SJS, TBL;;24;18
+Aliaksei Protas;WSH;;6;23
+Jamie Drysdale;ANA, PHI;;3;7
+Joshua Mahura;FLA;;0;9
+Dennis Gilbert;CGY;;1;6
+Joe Pavelski;DAL;;27;40
+Dakota Joshua;VAN;;18;14
+Cal Foote;NJD;;0;1
+Sean Walker;PHI, COL;;10;19
+Pierre-Edouard Bellemare;SEA;;4;3
+Alex Iafallo;WPG;;11;16
+Mike Matheson;MTL;;11;51
+Jayson Megna;BOS;;0;0
+Jarred Tinordi;CHI;;0;9
+Ryan Johansen;COL;;13;10
+Patrick Maroon;MIN, BOS;;4;12
+Evgeny Kuznetsov;WSH, CAR;;8;16
+Ivan Miroshnichenko;WSH;;2;4
+Mavrik Bourque;DAL;;0;0
+Alexander Wennberg;SEA, NYR;;10;20
+Connor McDavid;EDM;;32;100
+Trevor Lewis;LAK;;8;8
+Ryan Lomberg;FLA;;5;2
+Brock Boeser;VAN;;40;33
+Adam Henrique;ANA, EDM;;24;27
+Joshua Brown;ARI;;3;7
+Jeff Petry;DET;;3;21
+Derek Forbort;BOS;;0;4
+Jack Studnicka;VAN, SJS;;1;0
+Vincent Desharnais;EDM;;1;10
+Alexander Holtz;NJD;;16;12
+Brady Tkachuk;OTT;;37;37
+Viktor Arvidsson;LAK;;6;9
+Jordan Kyrou;STL;;31;36
+Mark Stone;VGK;;16;37
+Mason Marchment;DAL;;22;31
+Santeri Hatakka;NJD;;0;2
+TJ Brodie;TOR;;1;25
+Ondrej Pavel;COL;;0;0
+Robert Bortuzzo;STL, NYI;;0;0
+Vinnie Hinostroza;PIT;;1;2
+Noah Hanifin;CGY, VGK;;13;34
+Cam Fowler;ANA;;5;34
+Derrick Pouliot;DAL;;0;0
+Urho Vaakanainen;ANA;;1;13
+Brendan Gaunce;CBJ;;2;2
+Angus Crookshank;OTT;;2;1
+Nicolas Aube-Kubel;WSH;;6;10
+Mattias Janmark;EDM;;4;8
+Matty Beniers;SEA;;15;22
+Martin Pospisil;CGY;;8;16
+Josh Doan;ARI;;5;4
+Nick Blankenburg;CBJ;;1;0
+Shayne Gostisbehere;DET;;10;46
+Grant Hutton;NYI;;0;0
+Noah Dobson;NYI;;10;60
+Jacob Moverare;LAK;;1;0
+Bo Horvat;NYI;;33;35
+Nikolas Matinpalo;OTT;;0;0
+Yakov Trenin;NSH, COL;;12;5
+Mathew Dumba;ARI, TBL;;4;8
+Jake Middleton;MIN;;7;18
+Alex Barré-Boulet;TBL;;6;3
+Matthew Kessel;STL;;1;6
+Tyler Toffoli;NJD, WPG;;33;22
+Travis Konecny;PHI;;33;35
+Jake Christiansen;CBJ;;0;2
+Henry Thrun;SJS;;3;8
+Tobias Bjornfot;LAK, VGK, FLA;;0;0
+Mason McTavish;ANA;;19;23
+Frank Nazar;CHI;;1;0
+Colin White;PIT, MTL;;0;0
+Johnny Gaudreau;CBJ;;12;48
+Anthony Beauvillier;VAN, CHI, NSH;;5;12
+Ryan Shea;PIT;;1;0
+Ryan Carpenter;SJS;;5;7
+Kole Lind;SEA;;0;0
+Vladimir Tarasenko;OTT, FLA;;23;32
+Nazem Kadri;CGY;;29;46
+Nick Bonino;NYR;;1;4
+Yan Kuznetsov;CGY;;0;0
+Riley Nash;NYR;;0;0
+Ondrej Palat;NJD;;11;20
+Connor McMichael;WSH;;18;15
+Andrei Kuzmenko;VAN, CGY;;22;24
+Thomas Bordeleau;SJS;;6;5
+Colton Sissons;NSH;;15;20
+Ivan Barbashev;VGK;;19;26
+Andrew Peeke;CBJ, BOS;;1;9
+Jayden Struble;MTL;;3;7
+Jordan Oesterle;CGY;;0;2
+Luke Schenn;NSH;;1;6
+Danton Heinen;BOS;;17;19
+David Savard;MTL;;6;18
+Yakov Trenin;NSH, COL;;12;5
+Tristan Luneau;ANA;;1;2
+Nathan Bastian;NJD;;5;7
+Brett Howden;VGK;;8;11
+Curtis Lazar;NJD;;7;18
+Bobby Brink;PHI;;11;12
+Spencer Stastney;NSH;;2;2
+Boone Jenner;CBJ;;22;13
+Owen Tippett;PHI;;28;25
+Anthony Richard;BOS;;1;2
+Sebastian Aho;NYI;;2;7
+Patrik Koch;ARI;;0;0
+Connor Brown;EDM;;4;8
+Nick Jensen;WSH;;1;13
+Morgan Geekie;BOS;;17;22
+Nikita Zadorov;CGY, VAN;;6;14
+Vincent Iorio;WSH;;0;0
+Jack Quinn;BUF;;9;10
+Vladislav Namestnikov;WPG;;11;26
+Paul Cotter;VGK;;7;18
+Jonathan Drouin;COL;;19;37
+Mason Shaw;MIN;;1;2
+Alex Turcotte;LAK;;1;3
+Marco Scandella;STL;;2;6
+Sean Kuraly;CBJ;;9;9
+Jean-Gabriel Pageau;NYI;;11;22
+Jake Leschyshyn;NYR;;0;0
+Charlie Coyle;BOS;;25;35
+Mike Reilly;FLA, NYI;;6;18
+Scott Sabourin;SJS;;0;0
+Sheldon Rempal;VGK;;2;1
+Jesper Fast;CAR;;6;13
+Brent Burns;CAR;;10;33
+Brennan Othmann;NYR;;0;0
+Dakota Mermis;MIN;;3;5
+Liam O'Brien;ARI;;5;9
+Ryan Johnson;BUF;;0;7
+Alex DeBrincat;DET;;27;40
+Peyton Krebs;BUF;;4;13
+Andreas Athanasiou;CHI;;2;7
+Max Pacioretty;WSH;;4;19
+Teddy Blueger;VAN;;6;22
+Jan Rutta;SJS;;5;14
+Brett Leason;ANA;;11;11
+Ross Colton;COL;;17;23
+Jamie Benn;DAL;;21;39
+Pavel Dorofeyev;VGK;;13;11
+Jakub Vrana;STL;;2;4
+Jack McBain;ARI;;8;18
+Alex Nylander;PIT, CBJ;;11;4
+Robert Bortuzzo;STL, NYI;;0;0
+Mason Morelli;VGK;;3;1
+Pavel Dorofeyev;VGK;;13;11
+Isaak Phillips;CHI;;0;6
+MacKenzie Entwistle;CHI;;5;6
+Dmitri Voronkov;CBJ;;18;16
+Michael Sgarbossa;WSH;;4;3
+Louis Crevier;CHI;;0;3
+Brandon Duhaime;MIN, COL;;5;8
+Vinni Lettieri;MIN;;5;4
+Adam Edstrom;NYR;;2;0
+Axel Jonsson-Fjallby;WPG;;2;3
+Casey Cizikas;NYI;;10;13
+Nic Petan;MIN;;0;2
+Mikhail Sergachev;TBL;;2;17
+Akito Hirose;VAN;;0;0
+Jason Zucker;ARI, NSH;;14;18
+David Perron;DET;;17;30
+John Ludvig;PIT;;3;2
+Ben Hutton;VGK;;2;8
+Pierrick Dube;WSH;;0;0
+Trevor Moore;LAK;;31;26
+Moritz Seider;DET;;9;33
+Jackson Blake;CAR;;0;0
+Patrick Kane;DET;;20;27
+Joel Kiviranta;COL;;3;6
+Adam Lowry;WPG;;12;23
+Kris Letang;PIT;;10;41
+Owen Power;BUF;;6;27
+Sean Monahan;MTL, WPG;;26;33
+Michael Pezzetta;MTL;;3;9
+Carson Meyer;CBJ;;1;1
+Justin Holl;DET;;0;5
+Robby Fabbri;DET;;18;14
+Timo Meier;NJD;;28;24
+Joel Edmundson;WSH, TOR;;1;5
+Zac Jones;NYR;;2;7
+Jonas Rondbjerg;VGK;;1;2
+Mason Appleton;WPG;;14;22
+Nils Aman;VAN;;3;4
+Robert Thomas;STL;;26;60
+Victor Mete;PHI;;0;0
+Yanni Gourde;SEA;;11;22
+Mason Lohrei;BOS;;4;9
+Scott Mayfield;NYI;;0;5
+Frederick Gaudreau;MIN;;5;10
+Ethan Bear;WSH;;1;3
+Jonathan Marchessault;VGK;;42;27
+Auston Matthews;TOR;;69;38
+Haydn Fleury;TBL;;1;4
+Colin Miller;NJD, WPG;;4;5
+Filip Roos;CHI;;0;0
+Tony DeAngelo;CAR;;3;8
+Matt Coronato;CGY;;3;6
+Oskar Steen;BOS;;1;0
+Michael McLeod;NJD;;10;9
+Chris Tanev;CGY, DAL;;2;17
+Mikael Granlund;SJS;;12;48
+Garnet Hathaway;PHI;;7;10
+Nick Bjugstad;ARI;;22;23
+Nolan Foote;NJD;;1;0
+Scott Perunovich;STL;;0;17
+Will Borgen;SEA;;3;22
+Evgeni Malkin;PIT;;27;40
+Joona Koppanen;PIT;;0;0
+Declan Chisholm;WPG, MIN;;3;6
+Jake Evans;MTL;;7;21
+Jamie Oleksiak;SEA;;2;13
+Shane Wright;SEA;;4;1
+Sonny Milano;WSH;;15;8
+Sebastian Aho;CAR;;36;53
+Elias Lindholm;CGY, VAN;;15;29
+Ryan O'Reilly;NSH;;26;43
+Givani Smith;SJS;;1;3
+Nikita Chibrikov;WPG;;1;0
+Trent Frederic;BOS;;18;22
+Tage Thompson;BUF;;29;27
+Marc McLaughlin;BOS;;1;0
+Jonny Brodzinski;NYR;;6;13
+Luke Evangelista;NSH;;16;23
+Charlie McAvoy;BOS;;12;35
+Shea Theodore;VGK;;5;37
+Jesse Ylonen;MTL;;4;4
+Marco Rossi;MIN;;21;19
+Neal Pionk;WPG;;5;28
+Drew O'Connor;PIT;;16;17
+Steven Stamkos;TBL;;40;41
+Jalen Chatfield;CAR;;8;14
+William Karlsson;VGK;;30;30
+Kevin Korchinski;CHI;;5;10
+Travis Sanheim;PHI;;10;34
+Logan Cooley;ARI;;20;24
+James Hamblin;EDM;;2;1
+Tyler Motte;TBL;;6;3
+Matt Nieto;PIT;;1;3
+Adam Beckman;MIN;;0;2
+Colton Parayko;STL;;10;16
+Matt Boldy;MIN;;29;40
+Gustav Forsling;FLA;;10;29
+Joe Veleno;DET;;12;16
+Sam Carrick;ANA, EDM;;10;6
+Justin Kirkland;ARI;;0;0
+Rourke Chartier;OTT;;2;1
+Patrick Brown;BOS;;0;1
+Cole Schwindt;CGY;;0;0
+Julien Gauthier;NYI;;5;4
+J.T. Compher;DET;;19;29
+Ilya Solovyov;CGY;;0;3
+Luke Kunin;SJS;;11;7
+Tanner Jeannot;TBL;;7;7
+Jordan Staal;CAR;;10;20
+Nicholas Paul;TBL;;24;22
+Adam Edstrom;NYR;;2;0
+Adam Henrique;ANA, EDM;;24;27
+Luke Glendening;TBL;;10;1
+Keegan Kolesar;VGK;;8;10
+Brock McGinn;ANA;;1;2
+Jack Roslovic;CBJ, NYR;;9;22
+Jack Johnson;COL;;3;13
+Marc-Edouard Vlasic;SJS;;6;6
+William Eklund;SJS;;16;29
+Brandon Montour;FLA;;8;25
+Ryan Hartman;MIN;;21;24
+Jansen Harkins;PIT;;0;4
+Lukas Reichel;CHI;;5;11
+T.J. Oshie;WSH;;12;13
+Jason Dickinson;CHI;;22;13
+Mitchell Stephens;MTL;;2;1
+Oliver Ekman-Larsson;FLA;;9;23
+Christian Fischer;DET;;5;14
+Connor Clifton;BUF;;4;14
+Ryan Lindgren;NYR;;3;14
+Bowen Byram;COL, BUF;;11;18
+Darren Raddysh;TBL;;6;27
+Calle Jarnkrok;TOR;;10;11
+Pierre-Olivier Joseph;PIT;;2;9
+Samuel Bolduc;NYI;;2;3
+Jared Spurgeon;MIN;;0;5
+Adam Ginning;PHI;;1;0
+Ryan Pulock;NYI;;5;14
+Adam Erne;EDM;;1;1
+Emil Andrae;PHI;;0;0
+Erik Haula;NJD;;16;19
+Sam Colangelo;ANA;;1;0
+Jordan Spence;LAK;;2;22
+David Pastrnak;BOS;;47;63
+Corey Perry;CHI, EDM;;12;10
+Kevin Labanc;SJS;;2;7
+Travis Hamonic;OTT;;2;4
+Tomas Nosek;NJD;;2;4
+Mats Zuccarello;MIN;;12;51
+Lukas Cormier;VGK;;0;1
+Fredrik Olofsson;COL;;3;6
+Andreas Englund;LAK;;1;9
+Corey Perry;CHI, EDM;;12;10
+Kiefer Sherwood;NSH;;10;17
+Miles Wood;COL;;9;17
+Matias Maccelli;ARI;;17;40
+Blake Lizotte;LAK;;7;8
+Lars Eller;PIT;;15;16
+Jake DeBrusk;BOS;;19;21
+Adam Gaudette;STL;;0;0
+Jonathan Marchessault;VGK;;42;27
+Sam Carrick;ANA, EDM;;10;6
+Zach Benson;BUF;;11;19
+Marc Staal;PHI;;1;4
+Mark Friedman;VAN;;0;1
+Kale Clague;BUF;;0;1
+Mario Ferraro;SJS;;3;18
+Riley Tufte;COL;;1;1
+Samuel Laberge;NJD;;0;0
+Sam Gagner;EDM;;5;5
+Nicholas Robertson;TOR;;14;13
+J.T. Miller;VAN;;37;66
+Alec Martinez;VGK;;4;13
+Matt Roy;LAK;;5;20
+Josh Manson;COL;;8;17
+Pierre-Luc Dubois;LAK;;16;24
+Wyatt Kaiser;CHI;;0;7
+Valtteri Puustinen;PIT;;5;15
+Esa Lindell;DAL;;5;21
+Andreas Englund;LAK;;1;9
+Ian Mitchell;BOS;;0;2
+Nathan MacKinnon;COL;;51;89
+Tomas Hertl;SJS, VGK;;17;21
+Nick Schmaltz;ARI;;22;39
+Nikolai Kovalenko;COL;;0;0
+Georgii Merkulov;BOS;;0;0
+Emil Lilleberg;TBL;;0;5
+Raphael Lavoie;EDM;;0;0
+Rem Pitlick;CHI;;0;0
+Colin Miller;NJD, WPG;;4;5
+Linus Karlsson;VAN;;0;0
+Drew Doughty;LAK;;15;35
+Jimmy Vesey;NYR;;13;13
+Tyler Johnson;CHI;;17;14
+Dominic Toninato;WPG;;1;4
+Seth Jones;CHI;;8;23
+Rasmus Ristolainen;PHI;;1;3
+Mike Reilly;FLA, NYI;;6;18
+Ryan Donato;CHI;;12;18
+Milos Kelemen;ARI;;0;1
+Maxwell Crozier;TBL;;0;2
+Matthew Highmore;OTT;;0;2
+Michael Bunting;CAR, PIT;;19;36
+Josh Norris;OTT;;16;14
+Max Willman;NJD;;3;1
+Marc Johnstone;PIT;;0;0
+Anze Kopitar;LAK;;26;44
+Erik Johnson;BUF, PHI;;5;1
+Ryan McLeod;EDM;;12;18
+Matthew Knies;TOR;;15;20
+Ilya Lyubushkin;ANA, TOR;;0;8
+Damon Severson;CBJ;;9;19
+Oskar Olausson;COL;;0;0
+Stefan Noesen;CAR;;14;23
+Tyler Kleven;OTT;;0;1
+Cameron Butler;CBJ;;0;0
+Eeli Tolvanen;SEA;;16;25
+Calvin de Haan;TBL;;3;7
+Yakov Trenin;NSH, COL;;12;5
+Trey Fix-Wolansky;CBJ;;2;1
+Akil Thomas;LAK;;3;1
+Robert Hagg;ANA;;0;0
+Brian Dumoulin;SEA;;6;10
+Jaycob Megna;CHI;;0;2
+Matt Martin;NYI;;4;4
+Cameron Crotty;ARI;;0;0
+Andrew Mangiapane;CGY;;14;26
+Lucas Condotta;MTL;;0;0
+Marshall Rifai;TOR;;0;0
+Philippe Myers;TBL;;0;0
+Zack Ostapchuk;OTT;;0;0
+Jake Leschyshyn;NYR;;0;0
+Roman Josi;NSH;;23;62
+Evan Rodrigues;FLA;;12;27
+Chad Ruhwedel;PIT, NYR;;1;3
+Alexander Wennberg;SEA, NYR;;10;20
+Tyler Bertuzzi;TOR;;21;22
+Adam Boqvist;CBJ;;1;9
+Kevin Fiala;LAK;;29;44
+Pontus Holmberg;TOR;;7;10
+Ty Emberson;SJS;;1;9
+Jack Eichel;VGK;;31;37
+Austin Czarnik;DET;;0;1
+Alex Ovechkin;WSH;;31;34
+Andrei Svechnikov;CAR;;19;33
+Conor Timmins;TOR;;1;9
+Josh Anderson;MTL;;9;11
+Jan Jenik;ARI;;0;1
+Adam Pelech;NYI;;1;15
+Reilly Smith;PIT;;13;27
+Samuel Girard;COL;;3;15
+Waltteri Merela;TBL;;1;0
+Jacob Bryson;BUF;;1;7
+Nick Cousins;FLA;;7;8
+Jonathan Gruden;PIT;;1;0
+Olle Lycksell;PHI;;1;4
+Kaapo Kakko;NYR;;13;6
+Brenden Dillon;WPG;;8;12
+Travis Dermott;ARI;;2;5
+Cole Sillinger;CBJ;;13;19
+Adam Larsson;SEA;;4;14
+Nikita Alexandrov;STL;;0;2
+Jeff Skinner;BUF;;24;22
+Zemgus Girgensons;BUF;;8;6
+Brandt Clarke;LAK;;2;4
+Kasperi Kapanen;STL;;6;16
+Simon Nemec;NJD;;3;16
+Jason Zucker;ARI, NSH;;14;18
+Mackie Samoskevich;FLA;;0;0
+Dawson Mercer;NJD;;20;13
+Jordan Eberle;SEA;;17;27
+Gabriel Vilardi;WPG;;22;14
+Sean Monahan;MTL, WPG;;26;33
+Carter Verhaeghe;FLA;;34;38
+Kent Johnson;CBJ;;6;10
+K'Andre Miller;NYR;;8;22
+Drake Batherson;OTT;;28;38
+Artturi Lehkonen;COL;;16;18
+Brandon Duhaime;MIN, COL;;5;8
+Parker Wotherspoon;BOS;;0;8
+Jackson LaCombe;ANA;;2;15
+Pierre Engvall;NYI;;10;18
+Chris Kreider;NYR;;39;36
+Jacob MacDonald;SJS;;7;2
+Alex Vlasic;CHI;;2;14
+Mark Kastelic;OTT;;5;5
+Pavel Buchnevich;STL;;27;36
+Thomas Harley;DAL;;15;32
+Phillip Danault;LAK;;17;30
+Zach Hyman;EDM;;54;23
+Maxime Lajoie;TOR;;0;1
+Simon Holmstrom;NYI;;15;10
+Calle Rosen;STL;;0;1
+Luca Del Bel Belluz;CBJ;;1;0
+Jacob Trouba;NYR;;3;19
+Mark Scheifele;WPG;;25;47
+Miro Heiskanen;DAL;;9;45
+Matthew Highmore;OTT;;0;2
+Ilya Mikheyev;VAN;;11;20
+Patrik Laine;CBJ;;6;3
+Scott Laughton;PHI;;13;26
+Dylan Guenther;ARI;;18;17
+Kurtis MacDermid;COL, NJD;;2;1
+Ryan Poehling;PHI;;11;17
+Brandon Carlo;BOS;;4;10
+Cole Guttman;CHI;;4;4
+Jonatan Berggren;DET;;2;4
+Samuel Fagemo;NSH, LAK;;1;0
+Carl Grundstrom;LAK;;8;4
+Michael Kesselring;ARI;;5;16
+Jack St. Ivany;PIT;;0;1
+Max Pacioretty;WSH;;4;19
+Nikolai Knyzhov;SJS;;0;1
+Vladislav Kolyachonok;ARI;;1;3
+Cole Caufield;MTL;;28;37
+Andrew Poturalski;SEA;;0;0
+Jonathan Huberdeau;CGY;;12;40
+Rhett Gardner;PHI;;0;0
+Jean-Luc Foudy;COL;;1;0
+Philip Kemp;EDM;;0;0
+Kyle Connor;WPG;;34;27
+Cameron Atkinson;PHI;;13;15
+Jeff Carter;PIT;;11;4
+Morgan Frost;PHI;;13;28
+Nick Perbix;TBL;;2;22
+Nils Hoglander;VAN;;24;12
+Gustav Lindstrom;MTL, ANA;;3;7
+Pavel Zacha;BOS;;21;38
+Daemon Hunt;MIN;;0;1
+Uvis Balinskis;FLA;;1;2
+Ethan Del Mastro;CHI;;0;0
+Lucas Raymond;DET;;31;41
+Alex Newhook;MTL;;15;19
+Connor Zary;CGY;;14;20
+Shane Bowers;NJD;;0;0
+William Lockwood;FLA;;0;1
+Jonah Gadjovich;FLA;;2;2
+Bryan Rust;PIT;;28;28
+Jacob Peterson;SJS;;0;0
+A.J. Greer;CGY;;6;6
+Kaedan Korczak;VGK;;1;8
+Jake Lucchini;MIN;;2;3
+Zach Werenski;CBJ;;11;46
+Justin Sourdif;FLA;;0;0
+Tim Stützle;OTT;;18;52
+Chandler Stephenson;VGK;;16;35
+Elias Pettersson;VAN;;34;55
+Noah Juulsen;VAN;;1;6
+Chris Tierney;NJD;;4;8
+Brady Skjei;CAR;;13;34
+Jake Sanderson;OTT;;10;28
+Bo Groulx;ANA;;0;2
+Sam Poulin;PIT;;0;0
+Garnet Hathaway;PHI;;7;10
+Boris Katchouk;CHI, OTT;;7;6
+Roby Jarventie;OTT;;0;1
+Jeremy Lauzon;NSH;;6;8
+Brian Halonen;NJD;;0;0
+Martin Fehervary;WSH;;3;13
+Justin Brazeau;BOS;;5;2
+Devon Toews;COL;;12;38
+Cale Fleury;SEA;;0;0
+Tyler Toffoli;NJD, WPG;;33;22
+Marc Del Gaizo;NSH;;0;3
+Emil Bemstrom;CBJ, PIT;;8;8
+Kevin Shattenkirk;BOS;;6;18
+Jake Guentzel;PIT, CAR;;30;47
+Brandon Saad;STL;;26;16
+Hampus Lindholm;BOS;;3;23
+Sidney Crosby;PIT;;42;52
+Ronnie Attard;PHI;;0;2
+William Carrier;VGK;;6;2
+Radek Faksa;DAL;;7;12
+Alexey Toropchenko;STL;;14;7
+Jiri Smejkal;OTT;;1;1
+Nick Suzuki;MTL;;33;44
+Nicolas Roy;VGK;;13;28
+Connor Dewar;MIN, TOR;;11;8
+Egor Afanasyev;NSH;;0;0
+David Gustafsson;WPG;;3;4
+Logan Mailloux;MTL;;0;1
+Clayton Keller;ARI;;33;43
+Denis Gurianov;NSH, PHI;;1;1
+Arber Xhekaj;MTL;;3;7
+Vasily Ponomarev;CAR;;1;1
+Jakob Pelletier;CGY;;1;2
+Jake Walman;DET;;12;9
+Artem Zub;OTT;;5;20
+Reese Johnson;CHI;;2;3
+Jesperi Kotkaniemi;CAR;;12;15
+Mattias Samuelsson;BUF;;1;6
+Jordan Martinook;CAR;;14;18
+Mitch Marner;TOR;;26;59
+Michael Amadio;VGK;;14;13
+Rasmus Dahlin;BUF;;20;39
+Logan Stankoven;DAL;;6;8
+Brandon Gignac;MTL;;1;0
+Seth Jarvis;CAR;;33;34
+MacKenzie Weegar;CGY;;20;32
+Dylan Cozens;BUF;;18;29
+Declan Carlile;TBL;;0;0
+Jake Christiansen;CBJ;;0;2
+Gustav Olofsson;SEA;;0;0
+Jared McCann;SEA;;29;33
+Jani Hakanpää;DAL;;2;10
+Brandon Tanev;SEA;;7;9
+Kyle MacLean;NYI;;4;5
+Nikita Zaitsev;CHI;;2;5
+Michael McCarron;NSH;;12;10
+Zack Bolduc;STL;;5;4
+Bobby McMann;TOR;;15;9
+Brock Faber;MIN;;8;39
+Jake Neighbours;STL;;27;11
+Ryan McDonagh;NSH;;3;29
+Logan Morrison;SEA;;0;0
+Matt Rempe;NYR;;1;1
+Juuso Parssinen;NSH;;8;4
+Jaden Schwartz;SEA;;13;17
+Ian Cole;VAN;;2;9
+Nick DeSimone;CGY, NJD;;2;5
+Rasmus Kupari;WPG;;0;1
+Kevin Bahl;NJD;;1;10
+Alexander Alexeyev;WSH;;1;2
+Nic Dowd;WSH;;12;10
+Gustav Nyquist;NSH;;23;52
+Hudson Fasching;NYI;;4;10
+Kirill Marchenko;CBJ;;23;19
+Klim Kostin;DET, SJS;;8;6
+Rafael Harvey-Pinard;MTL;;2;8
+Walker Duehr;CGY;;2;5
+Matthew Phillips;WSH, PIT;;1;4
+Nino Niederreiter;WPG;;18;16
+Thomas Chabot;OTT;;9;21
+Leo Carlsson;ANA;;12;17
+Zach Parise;COL;;5;5
+Radim Zohorna;PIT;;4;3
+Joel Farabee;PHI;;22;28
+Logan Couture;SJS;;0;1
+Noah Gregor;TOR;;6;6
+Pius Suter;VAN;;14;15
+Kyle Okposo;BUF, FLA;;12;10
+Tyler Myers;VAN;;5;24
+Henri Jokiharju;BUF;;3;17
+Mackenzie MacEachern;STL;;0;1
+Jakob Silfverberg;ANA;;7;12
+Barclay Goodrow;NYR;;4;8
+Colin Blackwell;CHI;;8;4
+Glenn Gawdin;ANA;;0;0
+Justin Barron;MTL;;7;6
+Joel Armia;MTL;;17;8
+David Jiricek;CBJ;;1;9
+Travis Boyd;ARI;;2;6
+Kevin Hayes;STL;;13;16
+Justin Faulk;STL;;2;28
+Connor Mackey;NYR;;0;0
+Zachary Sanford;ARI, CHI;;0;6
+Brayden Pachal;VGK, CGY;;2;5
+Alexander Petrovic;DAL;;0;0
+Ryan Reaves;TOR;;4;2
+Justin Schultz;SEA;;7;19
+Conor Garland;VAN;;20;27
+Lane Hutson;MTL;;0;2
+Erik Johnson;BUF, PHI;;5;1
+Anthony Mantha;WSH, VGK;;23;21
+Cutter Gauthier;ANA;;0;1
+Beck Malenstyn;WSH;;6;15
+Adam Fox;NYR;;17;56
+Ryker Evans;SEA;;1;8
+Anthony Beauvillier;VAN, CHI, NSH;;5;12
+Nick Leddy;STL;;3;25
+Artemi Panarin;NYR;;49;71
+Blake Coleman;CGY;;30;24
+Arshdeep Bains;VAN;;0;0
+Elias Lindholm;CGY, VAN;;15;29
+Tyson Foerster;PHI;;20;13
+Mikael Backlund;CGY;;15;24
+Dougie Hamilton;NJD;;5;11
+Cole McWard;VAN;;0;0
+Ben Chiarot;DET;;5;15
+Mattias Ekholm;EDM;;11;34
+Kyle Burroughs;SJS;;2;6
+Victor Soderstrom;ARI;;0;0
+Isak Rosen;BUF;;0;0
+Philipp Kurashev;CHI;;18;36
+Adam Raska;MIN;;0;0
+Michael Rasmussen;DET;;13;20
+Dylan Samberg;WPG;;1;17
+Emil Heineman;MTL;;0;0
+Niko Mikkola;FLA;;3;14
+Aleksander Barkov;FLA;;23;57
+Ben Meyers;COL, ANA;;1;2
+Taylor Hall;CHI;;2;2
+Vasily Podkolzin;VAN;;0;2
+Oskar Sundqvist;STL;;6;15
+Daniel Sprong;DET;;18;25
+Graeme Clarke;NJD;;0;0
+Erik Brannstrom;OTT;;3;17
+Dmitry Kulikov;FLA;;1;19
+Max McCormick;SEA;;0;0
+Claude Giroux;OTT;;21;43
+Shakir Mukhamadullin;SJS;;0;1
+Devin Shore;SEA;;1;3
+Yegor Sharangovich;CGY;;31;28
+Brett Murray;BUF;;0;0
+Taylor Raddysh;CHI;;5;9
+Mathew Barzal;NYI;;23;57
+Erik Gudbranson;CBJ;;6;20
+Evander Kane;EDM;;24;20
+Tyler Angle;CBJ;;0;0
+Mathieu Joseph;OTT;;11;24
+Logan O'Connor;COL;;13;12
+Dylan Holloway;EDM;;6;3
+Michael Carcone;ARI;;21;8
+Ryan Suter;DAL;;2;15
+Jesper Boqvist;BOS;;6;8
+Caleb Jones;COL;;0;5
+Kevin Stenlund;FLA;;11;4
+Jordan Harris;MTL;;3;11
+Connor Murphy;CHI;;2;6
+Dylan McIlrath;WSH;;0;1
+Adam Ruzicka;CGY, ARI;;3;6
+Maksymilian Szuber;ARI;;0;0
+Noah Hanifin;CGY, VGK;;13;34
+Alexandre Texier;CBJ;;12;18
+Torey Krug;STL;;4;35
+Matt Savoie;BUF;;0;0
+William Nylander;TOR;;40;58
+Logan Stanley;WPG;;1;1
+Simon Benoit;TOR;;1;4
+Joel Eriksson Ek;MIN;;30;34
+Brad Marchand;BOS;;29;38
+Casey Mittelstadt;BUF, COL;;18;39
+Bokondji Imama;OTT;;0;0
+Rasmus Andersson;CGY;;9;30
+Noah Cates;PHI;;6;12
+Adam Klapka;CGY;;1;0
+Nick Seeler;PHI;;1;12
+Daniil Miromanov;VGK, CGY;;3;4
+Carson Soucy;VAN;;2;4
+Olli Maatta;DET;;4;14
+Casey Mittelstadt;BUF, COL;;18;39
+Tyler Pitlick;NYR;;1;3
+Cody Ceci;EDM;;5;20
+Trevor van Riemsdyk;WSH;;0;14
+Quinton Byfield;LAK;;20;35
+Brayden Point;TBL;;46;44
+Connor Bedard;CHI;;22;39
+Alex Kerfoot;ARI;;13;32
+Scott Morrow;CAR;;0;0
+Ryan Winterton;SEA;;0;0
+Wyatt Johnston;DAL;;32;33
+Nikita Zadorov;CGY, VAN;;6;14
+Jacob Bernard-Docker;OTT;;4;10
+Philip Broberg;EDM;;0;2
+Sean Durzi;ARI;;9;32
+Mikey Anderson;LAK;;2;16
+Collin Graf;SJS;;0;2
+Andrew Peeke;CBJ, BOS;;1;9
+Jonas Brodin;MIN;;7;20
+Hardy Haman Aktell;WSH;;0;1
+Joel Edmundson;WSH, TOR;;1;5
+Michael Eyssimont;TBL;;11;14
+Matthew Poitras;BOS;;5;10
+Grigori Denisenko;VGK;;0;0
+Frank Vatrano;ANA;;37;23
+Alex Killorn;ANA;;18;18
+Conor Sheary;TBL;;4;11
+Brett Seney;CHI;;0;0
+JJ Peterka;BUF;;28;22
+Ryan Graves;PIT;;3;11
+Cale Makar;COL;;21;69
+Byron Froese;VGK;;0;1
+Danil Gushchin;SJS;;1;1
+Robert Hagg;ANA;;0;0
+Darnell Nurse;EDM;;10;22
+John Carlson;WSH;;10;42
+Sam Malinski;COL;;3;7
+Adam Fantilli;CBJ;;12;15
+Jason Polin;COL;;1;0
+Egor Zamula;PHI;;5;16
+Chris Tanev;CGY, DAL;;2;17
+Troy Terry;ANA;;20;34
+Austin Watson;TBL;;2;2
+Mikko Rantanen;COL;;42;62
+Rasmus Sandin;WSH;;3;20
+Marcus Foligno;MIN;;10;12
+Anthony Cirelli;TBL;;20;25
+Fraser Minten;TOR;;0;0
+Andrew Cogliano;COL;;6;13
+John Beecher;BOS;;7;3
+Joe Snively;WSH;;0;0
+Matt Duchene;DAL;;25;40
+Juraj Slafkovsky;MTL;;20;30
+Josh Morrissey;WPG;;10;59
+Nikita Kucherov;TBL;;44;100
+Filip Chytil;NYR;;0;6
+Kirill Kaprizov;MIN;;46;50
+Dominik Kubalik;OTT;;11;4
+Philip Tomasino;NSH;;7;13
+Maxime Comtois;CAR;;0;1
+Marcus Pettersson;PIT;;4;26
+Jesse Puljujarvi;PIT;;3;1
+Valeri Nichushkin;COL;;28;25
+Marat Khusnutdinov;MIN;;1;3
+Johnathan Kovacevic;MTL;;6;7
+Dylan Strome;WSH;;27;40
+Justin Bailey;SJS;;5;9
+Alex Laferriere;LAK;;12;11
+Kaiden Guhle;MTL;;6;16
+Lucas Johansen;WSH;;0;1
+Fabian Zetterlund;SJS;;24;20
+Oliver Bjorkstrand;SEA;;20;39
+Zach Bogosian;TBL, MIN;;3;11
+Mika Zibanejad;NYR;;26;46
+Anthony Duclair;SJS, TBL;;24;18
+Max Domi;TOR;;9;38
+Oskar Lindblom;SJS;;0;0
+Eric Robinson;CBJ, BUF;;3;7
+Tommy Novak;NSH;;18;27
+Ilya Lyubushkin;ANA, TOR;;0;8
+Alexandre Carrier;NSH;;4;16
+Brendan Lemieux;CAR;;3;2
+Gavin Brindley;CBJ;;0;0
+Jesper Bratt;NJD;;27;56
+Nicolas Deslauriers;PHI;;1;3
+Nikolaj Ehlers;WPG;;25;36
+Erik Gustafsson;NYR;;6;25
+Joel Hanley;DAL, CGY;;1;4
+Morgan Rielly;TOR;;7;51
+Kyle Okposo;BUF, FLA;;12;10
+Jack Hughes;NJD;;27;47
+Cam York;PHI;;10;20
+Evan Bouchard;EDM;;18;64
+Jaccob Slavin;CAR;;6;31
+Erik Karlsson;PIT;;11;45
+Blake Wheeler;NYR;;9;12
+Vince Dunn;SEA;;11;35
+Alexander Barabanov;SJS;;4;9
+Tom Wilson;WSH;;18;17
+Ryan Nugent-Hopkins;EDM;;18;49
+Liam Ohgren;MIN;;1;1
+Anton Blidh;NYR;;0;0
+Bradly Nadeau;CAR;;0;0
+Jake Bean;CBJ;;4;9
+Jackson LaCombe;ANA;;2;15
+Pavel Mintyukov;ANA;;4;24
+Jakub Lauko;BOS;;2;8
+Kevin Rooney;CGY;;3;1
+Jack Roslovic;CBJ, NYR;;9;22
+Tyson Barrie;NSH;;1;14
+Phillip Di Giuseppe;VAN;;5;5
+Cole Perfetti;WPG;;19;19
+Radko Gudas;ANA;;6;12
+Kyle Palmieri;NYI;;30;24
+Evgenii Dadonov;DAL;;12;11
+John Leonard;ARI;;1;0
+Dryden Hunt;CGY;;3;5
+Sammy Walker;MIN;;0;0
+Justin Dowling;NJD;;1;0
+Liam Foudy;CBJ, NSH;;0;3
+Nate Schmidt;WPG;;2;12
+Nikita Okhotiuk;SJS, CGY;;1;8
+John Tavares;TOR;;29;36
+Hugh McGing;STL;;0;0
+Timothy Liljegren;TOR;;3;20
+Trevor Zegras;ANA;;6;9
+Brayden McNabb;VGK;;4;22
+Jack Drury;CAR;;8;19
