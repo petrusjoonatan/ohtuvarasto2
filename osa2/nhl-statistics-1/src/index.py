@@ -1,8 +1,14 @@
 from statistics_service import StatisticsService
+from player_reader import PlayerReader
 
 
 def main():
-    stats = StatisticsService()
+    url = (
+        "https://raw.githubusercontent.com/ohjelmistotuotanto-jyu/"
+        "tehtavat/refs/heads/main/osa2/stats/players-23-24.txt"
+    )
+    reader = PlayerReader(url)
+    stats = StatisticsService(reader)
     philadelphia_flyers_players = stats.team("PHI")
     top_scorers = stats.top(10)
 
@@ -17,4 +23,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
