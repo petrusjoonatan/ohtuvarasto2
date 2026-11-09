@@ -30,7 +30,7 @@ class StatisticsService:
 
         result = []
         i = 0
-        while i <= how_many:
+        while i < how_many and i < len(sorted_players):
             result.append(sorted_players[i])
             i += 1
 
